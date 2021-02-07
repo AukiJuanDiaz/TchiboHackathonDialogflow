@@ -3,8 +3,9 @@ This repo documents the code used inside Google Dialogflow to run a Telegram cha
 
 ## Result
 Here you can see the functionality of the chat engine:
+
 ![Chat engine run through](https://github.com/AukiJuanDiaz/TchiboHackathonDialogflow/blob/main/grievancebot.gif)
 
-With a Telegram account, you can also chat with the bot yourself ![here](https://t.me/Grievance_Bot).
+With a Telegram account, you can also chat with the bot yourself [here](https://t.me/Grievance_Bot).
 
-You can reach our mock up for the resolvance platform ![here](https://complaints-ui.herokuapp.com).
+You can reach our mock up for the resolvance platform [here](https://complaints-ui.herokuapp.com).
